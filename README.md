@@ -18,3 +18,4 @@ Others.
 ### Results
 The models with Phrase embedding have shown better results than the word embedding. The f1-socre is increased by 3%
 
+github link: https://github.com/ram-asari/IR_ner_phrase-embedding
