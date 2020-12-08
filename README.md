@@ -13,6 +13,7 @@ Others.
   * Phrases: political party, aa jati 
   
 ### Architecture
+![](/BILSTM_architecture.png)
 
 ### Results
 The models with Phrase embedding have shown better results than the word embedding. The f1-socre is increased by 3%
